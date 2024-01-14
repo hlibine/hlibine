@@ -2,7 +2,7 @@
 <h1><strong>Welcome</strong></h1>
 <p>
 - I'm Hugo<br>
-- I am a programming student learning C and soon C++<br>
+- I am a programming student at Ecole 42 Lausanne learning C and soon C++<br>
 - My pronouns are He/Him<br>
 - I'm an avid gamer<br>
 - I speak English and French<br>
