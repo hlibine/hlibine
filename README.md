@@ -1,24 +1,24 @@
-<!-- Title -->
-<h1><strong>Welcome</strong></h1>
-<p>
-- I'm Hugo<br>
-- I am a programming student at Ecole 42 Lausanne learning C and soon C++<br>
-- My pronouns are He/Him<br>
-- I'm an avid gamer<br>
-- I speak English and French<br>
-</p>
-<!-- About me -->
-<h2>
-  <strong>About Me</strong>
-</h2>
-<p>
-  I'm Swiss, Im 18. I run servers and am learning 3D modeling as hobbies.
-</p>
-<!-- Capabilities -->
-<h2>
-  <strong>Capabilities</strong>
-</h2>
-<p>
-🌐 Cisco Networking | 🖥️ Windows & Linux
-</p>
+# Welcome to Hugo's GitHub Profile!
 
+![GitHub followers](https://img.shields.io/github/followers/hlibine?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/hlibine?style=social)
+
+![C](https://img.shields.io/badge/-C-blue)
+![Linux](https://img.shields.io/badge/-Linux-fcc624)
+
+## About Me
+
+-  I'm Hugo, a programming student at Ecole 42 Lausanne.
+-  I go by He / Him
+-  I'm learning C and soon C++.
+-  I'm an avid gamer.
+-  I speak English and French.
+-  Swiss, 18 years old. I run servers and am learning 3D modeling as hobbies.
+
+## 💼 Capabilities
+
+- 🌐 Cisco Networking
+- 🖥️ Proficient in Windows & Linux
+
+## Contact me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugo-libine-062508226)
