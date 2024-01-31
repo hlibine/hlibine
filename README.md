@@ -1,4 +1,4 @@
-# Welcome to Hugo's GitHub Profile!
+# Welcome to my GitHub profile!
 
 ![GitHub followers](https://img.shields.io/github/followers/hlibine?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/hlibine?style=social)
