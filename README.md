@@ -6,7 +6,7 @@
 ## About Me
 
 -  I'm Hugo, a programming student at Ecole 42 Lausanne.
--  I go by He / Him.
+-  He / Him.
 -  I'm learning C and soon C++.
 -  I'm an avid gamer.
 -  I speak English and French.
