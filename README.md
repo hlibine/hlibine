@@ -1,27 +1,34 @@
-# Welcome to my GitHub profile!
+# Hi there, I'm Hugo ![GitHub followers](https://img.shields.io/github/followers/hlibine?label=Follow&color=red&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/hlibine?style=flat-square&color=yellow) ![](https://komarev.com/ghpvc/?username=hlibine&style=flat-square)
 
-![GitHub followers](https://img.shields.io/github/followers/hlibine?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/hlibine?style=social)
+I'm a `he/him/they/them` 18-year-old programming student currently studying at Ecole 42 Lausanne.
 
-## About Me
+Through my studies, at 42 I have been learning C and am well on my way to moving on to C++. I have basic experience in Cisco Networking from my time studying at the Open University. I mainly have experience in Windows and Linux with basic MacOS experience.
 
--  I'm Hugo, a programming student at Ecole 42 Lausanne.
--  He / Him.
--  I'm learning C and soon C++.
--  I'm an avid gamer.
--  I speak English and French.
--  Swiss, 18 years old. I run servers and am learning 3D modeling as hobbies.
+In my free time, I like to work on side projects, run and manage personal servers (including but not limited to game servers for my friends), play video games (my all-time favorite being Team Fortress 2), and ride my motorcycle (a BMW f850 gs).
 
-## 💼 Capabilities
+💼 **Skills & Proficiencies**
+* Cisco Networking
+* Windows & Linux platforms
 
-- 🌐 Cisco Networking
-- 🖥️ Proficient in Windows & Linux
+💻 **I'm Currently working on**
+* 42 Pipex
 
-## Neat stats
+🎮 **Hobbies**
+* Gaming
+* Server Management
+* 3D Modeling
+* Riding my motorbike
+
+🗣️ **Languages**
+* English
+* French
+
+#### Coding Stats
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlibine&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlibine&layout=compact&theme=dark)
 
-## Contact me
+📫 **Get in Touch**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugo-libine-062508226)
