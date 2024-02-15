@@ -1,6 +1,6 @@
 # Hi there, I'm Hugo ![GitHub followers](https://img.shields.io/github/followers/hlibine?label=Follow&color=red&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/hlibine?style=flat-square&color=yellow) ![](https://komarev.com/ghpvc/?username=hlibine&style=flat-square)
 
-I'm a `he/him/they/them` 18-year-old programming student currently studying at Ecole 42 Lausanne.
+I'm a `he/they` 18-year-old programming student currently studying at Ecole 42 Lausanne.
 
 Through my studies, at 42 I have been learning C and am well on my way to moving on to C++. I have basic experience in Cisco Networking from my time studying at the Open University. I mainly have experience in Windows and Linux with basic MacOS experience.
 
