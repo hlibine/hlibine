@@ -11,7 +11,7 @@ In my free time, I like to work on side projects, run and manage personal server
 * Windows & Linux platforms
 
 💻 **I'm Currently working on**
-* 42 Pipex
+* 42 so_long
 
 🎮 **Hobbies**
 * Gaming
