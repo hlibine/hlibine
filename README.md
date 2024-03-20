@@ -19,7 +19,7 @@ Here you will find all of my important repos
 * [42_Cursus](https://github.com/hlibine/42_Repos)
 
 💻 **I'm Currently working on**
-* [so_long](https://github.com/hlibine/so_long)
+* [Philosophers](https://github.com/hlibine/Philosophers)
 
 🎮 **Hobbies**
 * Gaming
